@@ -12,8 +12,8 @@ from langchain_openai import ChatOpenAI
 from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain.retrievers import EnsembleRetriever
 
-import template_llm
-from utils import reorder_documents
+from . import template_llm
+from .utils import reorder_documents
 
 
 load_dotenv()
