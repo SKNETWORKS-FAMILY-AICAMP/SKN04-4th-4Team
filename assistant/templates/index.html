@@ -52,6 +52,13 @@
         button:hover {
             background-color: #45a049;
         }
+        
+        #result {
+            width: 80%;
+            margin-top: 20px;
+            margin-left: auto;
+            margin-right: auto;
+        }
 
         .warning {
             background-color: #ff9800;
@@ -65,6 +72,8 @@
             margin-top: 30px;
             text-align: left;
             width: 80%;
+            margin-left: auto;
+            margin-right: auto;
         }
 
         .faq {
@@ -132,7 +141,7 @@
     <input type="text" id="question" placeholder="질문을 입력하세요 (최대 100자)" maxlength="100">
     <br>
     <button onclick="findAnswer()">🔍 답변 찾기</button>
-    <div id="result" style="margin-top: 20px;"></div>
+    <div id="result"></div>
 
     <div class="faq-section">
         <h2>자주 묻는 질문 (FAQ)</h2>
