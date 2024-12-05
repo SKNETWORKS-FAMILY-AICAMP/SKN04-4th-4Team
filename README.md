@@ -21,11 +21,10 @@
 
 
 ### 조원 역할
-
-안준용 : 클라우드 구축  
-박진효 : 백엔드, 깃 관
-권오셈 : 클라우드 구축  
 전욱진 : 프론트엔드  
+박진효 : 백엔드, Git 관리  
+안준용 : 클라우드 구축    
+권오셈 : 클라우드 구축  
 하상집 : 클라우드 구축  
 김현재 : ReadME 작성  
 
@@ -118,8 +117,15 @@ AWS : 클라우드 서버 구축 및 배포
 
 <hr>
 
-### System Architecture
+### 화면 설계서
+<img src="https://github.com/user-attachments/assets/e51a643a-dd05-486a-8022-f9d6719342ab">
+<hr>
 
+### 요구사항 정의서
+<img src="https://github.com/user-attachments/assets/42f7cadf-6c70-4a39-bad9-7060178729c6">
+<hr>
+
+### System Architecture
 <img src="https://github.com/user-attachments/assets/5a412cf9-79a9-44ee-90cd-08d6abb72ac5">
 <hr>
 
@@ -127,7 +133,6 @@ AWS : 클라우드 서버 구축 및 배포
 <img src="https://github.com/user-attachments/assets/1f21dd5c-9f0e-4036-bb6d-9c88b50ebe74">
 <img src="https://github.com/user-attachments/assets/69487744-373f-4bf2-aae0-bce0b0d8de60">
 <img src="https://github.com/user-attachments/assets/d9de3add-1f88-4816-b24d-36a91e7fec1d">
-
 <hr>
 
 ### 수행 결과
