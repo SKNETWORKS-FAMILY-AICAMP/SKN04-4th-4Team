@@ -76,7 +76,7 @@ pip install -r requirements.txt
 ### Usage
 
 ```cmd
-streamlit run main.py
+python manage.py runserver
 ```
 
 <hr> 
